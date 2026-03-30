@@ -18,7 +18,7 @@
 
 Результат: функционал работает в соответствии с ожиданиями, критических дефектов не обнаружено. Бот может быть рекомендован к дальнейшей эксплуатации.
 
-Ссылка на документацию - https://docs.google.com/document/d/1kqYB05R9sl0KqvhKS2zSSowmlc3rU0rtlTAmNK3COCc/edit?tab=t.0
+[Ссылка на документацию](https://docs.google.com/document/d/1kqYB05R9sl0KqvhKS2zSSowmlc3rU0rtlTAmNK3COCc/edit?tab=t.0)
 
 **2) Объект тестирования: freelance-заказ, тестирование сервиса по поиску вакансий и задач для фриланса**
 
@@ -38,9 +38,9 @@
 
 Результат: Найдено критичное количество багов и недоработок, заказчик принял все на исправление
 
-Ссылка на документацию - https://docs.google.com/document/d/1oY27aCkJCHJV6oErLQz7-oDqgJr3EhYcg4b9DS0iziY/edit?tab=t.0
+[Ссылка на документацию](https://docs.google.com/document/d/1oY27aCkJCHJV6oErLQz7-oDqgJr3EhYcg4b9DS0iziY/edit?tab=t.0)
 
-Ссылка на сервис - https://dela-dela.cloud/
+[Ссылка на сервис](https://dela-dela.cloud/)
 
 Примеры:
 
@@ -92,5 +92,5 @@
 
 **3) Регрессионное тестирование Web-версии продукта (миграция функционала из TG-бота)**
 
-   Ссылка на баг репорты и чек-листы - https://docs.google.com/spreadsheets/d/1ZL5bysArmnkhw1wT6NhmBhHmOQCPvNQ-Eh4hCz6FvUI/edit?gid=1663198434#gid=1663198434
+   [Ссылка на баг репорты и чек-листы](https://docs.google.com/spreadsheets/d/1ZL5bysArmnkhw1wT6NhmBhHmOQCPvNQ-Eh4hCz6FvUI/edit?gid=1663198434#gid=1663198434)
  
